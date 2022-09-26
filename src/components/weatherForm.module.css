@@ -1,0 +1,13 @@
+.container{
+    margin:10px 0px;
+}
+
+.input{
+    outline:none;
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    font-size: 18px;
+    border-bottom: 1px solid  rgb(255,80,22);
+}

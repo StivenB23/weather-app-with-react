@@ -1,0 +1,12 @@
+.weatherContainer{
+    background: #fff;
+    width: 80%;
+    margin: 40px auto;
+    padding:10px;
+    border-radius: 10px;
+}
+
+.weatherContainer h1{
+    text-align: center;
+    color: #8b8b8b;
+}

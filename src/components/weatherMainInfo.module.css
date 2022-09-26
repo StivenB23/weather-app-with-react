@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.containerElementsForm{
+    display: flex;
+    font-family: sans-serif;
+    margin: 10px;
+}
+.information{
+    width: 40%;
+    background: rgb(248, 248, 248);
+    margin: 5px;
+    padding: 5px;
+}
+.title{
+    text-align: center;
+    font-size: 45px;
+    color: rgb(121, 117, 117);
+}
+.country{
+    text-align: center;
+    color: rgb(146, 146, 146);
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.image{
+    width: 60%;
+}
+.image iframe{
+    width: 100%;
+    height: 100%;
+    margin:2px;
+    border-radius: 10px;
+}
+.text{
+    margin-left: 10px;
+    color: #000;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.imageClime{
+    margin: 0px 25%;
+    text-align: center;
+    width: 50%;
+}
